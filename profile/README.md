@@ -13,7 +13,7 @@ QOCOGEN is a code generator housed in [qoco-python](https://github.com/qoco-org/
 
 QOCO has a python interface, and can be used in CVXPY.
 
-[**Check out the documentation**](https://qoco.org/) to learn how to use QOCO and QOCOGEN in your projects.
+[**Check out the documentation**](https://qoco-org.github.io/qoco/) to learn how to use QOCO and QOCOGEN in your projects.
 
 ## Installing
 
