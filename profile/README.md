@@ -5,6 +5,7 @@
 
 <p align="center">
   <a href="https://opensource.org/licenses/BSD-3-Clause"><img src="https://img.shields.io/badge/License-BSD_3--Clause-blue.svg" alt="License" /></a>
+  <a href="https://qoco-org.github.io/qoco/"><img src="https://img.shields.io/badge/docs-online-brightgreen?logo=read-the-docs&style=flat" alt="Documentation" /></a>
 </p>
 
 QOCO is a convex solver for Second-Order Cone Programs (SOCPs) which implements a primal-dual interior point method. It is written in C, has a BSD-3-Clause license, and is contained in [qoco](https://github.com/qoco-org/qoco).
