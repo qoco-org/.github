@@ -21,7 +21,7 @@ QOCO has a python interface, and can be used in CVXPY.
 
 ### C
 
-QOCO's C code can be found [here](https://github.com/qoco-org/qoco), and build instructions can be found in the documentation.
+QOCO's C code can be found [here](https://github.com/qoco-org/qoco), and build instructions can be found [here](https://qoco-org.github.io/qoco/install/C.html).
 
 ### Python
 
@@ -29,3 +29,8 @@ QOCO is available through [PyPI](https://pypi.org/project/qoco/) by running
 ```
 pip install qoco
 ```
+
+### Matlab
+
+QOCO's matlab wrapper can be found [here](https://github.com/qoco-org/qoco-matlab), and build instructions can be found [here](https://qoco-org.github.io/qoco/install/matlab.html).
+
