@@ -28,7 +28,6 @@ QOCO's C code can be found [here](https://github.com/qoco-org/qoco), and build i
 QOCO is available through [PyPI](https://pypi.org/project/qoco/) by running
 ```
 pip install qoco
-
 ```
 QOCOGEN is only available through [PyPI](https://pypi.org/project/qocogen/) and can be installed by running
 ```
