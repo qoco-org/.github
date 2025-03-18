@@ -38,3 +38,14 @@ pip install qocogen
 
 QOCO's matlab wrapper can be found [here](https://github.com/qoco-org/qoco-matlab), and build instructions can be found [here](https://qoco-org.github.io/qoco/install/matlab.html).
 
+## Citing
+```
+@article{chari2025qoco,
+  author      = {Chari, Govind M and A{\c{c}}{\i}kme{\c{s}}e, Beh{\c{c}}et},
+  title       = {Custom Solver Generation for Quadratic Objective Second-Order Cone Programs},
+  journal     = {In Review},
+  year        = {2025},
+  url         = {https://arxiv.org/abs/2503.12658},
+}
+```
+
