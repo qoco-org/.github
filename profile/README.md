@@ -41,7 +41,7 @@ QOCO's matlab wrapper can be found [here](https://github.com/qoco-org/qoco-matla
 ## Citing
 ```
 @misc{chari2025qoco,
-  title         = {Custom Solver Generation for Quadratic Objective Second-Order Cone Programs},
+  title         = {QOCO: A Quadratic Objective Conic Optimizer with Custom Solver Generation},
   author        = {Chari, Govind M and A{\c{c}}{\i}kme{\c{s}}e, Beh{\c{c}}et},
   year          = {2025},
   eprint        = {2503.12658},
